@@ -1,0 +1,1 @@
+Hi! i made this installer to help linux newbies install brave easily with a graphical interface using terminal! what it does is show a graphical interface with good error handling, to install the installer simple run 
